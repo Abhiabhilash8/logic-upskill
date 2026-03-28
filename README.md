@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1710-maximum-units-on-a-truck](https://github.com/Abhiabhilash8/logic-upskill/tree/master/1710-maximum-units-on-a-truck) |
+| [2573-find-the-string-with-lcp](https://github.com/Abhiabhilash8/logic-upskill/tree/master/2573-find-the-string-with-lcp) |
 | [2906-construct-product-matrix](https://github.com/Abhiabhilash8/logic-upskill/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Abhiabhilash8/logic-upskill/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Abhiabhilash8/logic-upskill/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [2573-find-the-string-with-lcp](https://github.com/Abhiabhilash8/logic-upskill/tree/master/2573-find-the-string-with-lcp) |
 | [2906-construct-product-matrix](https://github.com/Abhiabhilash8/logic-upskill/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Abhiabhilash8/logic-upskill/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Abhiabhilash8/logic-upskill/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1710-maximum-units-on-a-truck](https://github.com/Abhiabhilash8/logic-upskill/tree/master/1710-maximum-units-on-a-truck) |
+| [2573-find-the-string-with-lcp](https://github.com/Abhiabhilash8/logic-upskill/tree/master/2573-find-the-string-with-lcp) |
 ## Sorting
 |  |
 | ------- |
@@ -58,4 +61,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Abhiabhilash8/logic-upskill/tree/master/3548-equal-sum-grid-partition-ii) |
+## String
+|  |
+| ------- |
+| [2573-find-the-string-with-lcp](https://github.com/Abhiabhilash8/logic-upskill/tree/master/2573-find-the-string-with-lcp) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2573-find-the-string-with-lcp](https://github.com/Abhiabhilash8/logic-upskill/tree/master/2573-find-the-string-with-lcp) |
+## Union-Find
+|  |
+| ------- |
+| [2573-find-the-string-with-lcp](https://github.com/Abhiabhilash8/logic-upskill/tree/master/2573-find-the-string-with-lcp) |
 <!---LeetCode Topics End-->
