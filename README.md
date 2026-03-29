@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1710-maximum-units-on-a-truck](https://github.com/Abhiabhilash8/logic-upskill/tree/master/1710-maximum-units-on-a-truck) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Abhiabhilash8/logic-upskill/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Math
 |  |
 | ------- |
@@ -60,12 +61,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Abhiabhilash8/logic-upskill/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Abhiabhilash8/logic-upskill/tree/master/3548-equal-sum-grid-partition-ii) |
 ## String
 |  |
 | ------- |
 | [2573-find-the-string-with-lcp](https://github.com/Abhiabhilash8/logic-upskill/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Abhiabhilash8/logic-upskill/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Abhiabhilash8/logic-upskill/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
