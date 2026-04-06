@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0874-walking-robot-simulation](https://github.com/Abhiabhilash8/logic-upskill/tree/master/0874-walking-robot-simulation) |
 | [1710-maximum-units-on-a-truck](https://github.com/Abhiabhilash8/logic-upskill/tree/master/1710-maximum-units-on-a-truck) |
 | [2573-find-the-string-with-lcp](https://github.com/Abhiabhilash8/logic-upskill/tree/master/2573-find-the-string-with-lcp) |
 | [2751-robot-collisions](https://github.com/Abhiabhilash8/logic-upskill/tree/master/2751-robot-collisions) |
@@ -64,12 +65,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Abhiabhilash8/logic-upskill/tree/master/0657-robot-return-to-origin) |
+| [0874-walking-robot-simulation](https://github.com/Abhiabhilash8/logic-upskill/tree/master/0874-walking-robot-simulation) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Abhiabhilash8/logic-upskill/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2751-robot-collisions](https://github.com/Abhiabhilash8/logic-upskill/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Abhiabhilash8/logic-upskill/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Hash Table
 |  |
 | ------- |
+| [0874-walking-robot-simulation](https://github.com/Abhiabhilash8/logic-upskill/tree/master/0874-walking-robot-simulation) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Abhiabhilash8/logic-upskill/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Abhiabhilash8/logic-upskill/tree/master/3548-equal-sum-grid-partition-ii) |
 ## String
