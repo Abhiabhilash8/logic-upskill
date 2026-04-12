@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0874-walking-robot-simulation](https://github.com/Abhiabhilash8/logic-upskill/tree/master/0874-walking-robot-simulation) |
 | [1710-maximum-units-on-a-truck](https://github.com/Abhiabhilash8/logic-upskill/tree/master/1710-maximum-units-on-a-truck) |
+| [2381-shifting-letters-ii](https://github.com/Abhiabhilash8/logic-upskill/tree/master/2381-shifting-letters-ii) |
 | [2573-find-the-string-with-lcp](https://github.com/Abhiabhilash8/logic-upskill/tree/master/2573-find-the-string-with-lcp) |
 | [2751-robot-collisions](https://github.com/Abhiabhilash8/logic-upskill/tree/master/2751-robot-collisions) |
 | [2906-construct-product-matrix](https://github.com/Abhiabhilash8/logic-upskill/tree/master/2906-construct-product-matrix) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2381-shifting-letters-ii](https://github.com/Abhiabhilash8/logic-upskill/tree/master/2381-shifting-letters-ii) |
 | [2906-construct-product-matrix](https://github.com/Abhiabhilash8/logic-upskill/tree/master/2906-construct-product-matrix) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Abhiabhilash8/logic-upskill/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Abhiabhilash8/logic-upskill/tree/master/3546-equal-sum-grid-partition-i) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Abhiabhilash8/logic-upskill/tree/master/0657-robot-return-to-origin) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Abhiabhilash8/logic-upskill/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2381-shifting-letters-ii](https://github.com/Abhiabhilash8/logic-upskill/tree/master/2381-shifting-letters-ii) |
 | [2573-find-the-string-with-lcp](https://github.com/Abhiabhilash8/logic-upskill/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Abhiabhilash8/logic-upskill/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Abhiabhilash8/logic-upskill/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
