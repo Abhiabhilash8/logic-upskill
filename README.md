@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0874-walking-robot-simulation](https://github.com/Abhiabhilash8/logic-upskill/tree/master/0874-walking-robot-simulation) |
 | [1710-maximum-units-on-a-truck](https://github.com/Abhiabhilash8/logic-upskill/tree/master/1710-maximum-units-on-a-truck) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/Abhiabhilash8/logic-upskill/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2381-shifting-letters-ii](https://github.com/Abhiabhilash8/logic-upskill/tree/master/2381-shifting-letters-ii) |
 | [2573-find-the-string-with-lcp](https://github.com/Abhiabhilash8/logic-upskill/tree/master/2573-find-the-string-with-lcp) |
 | [2751-robot-collisions](https://github.com/Abhiabhilash8/logic-upskill/tree/master/2751-robot-collisions) |
