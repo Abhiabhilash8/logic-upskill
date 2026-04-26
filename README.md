@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Abhiabhilash8/logic-upskill/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Abhiabhilash8/logic-upskill/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Abhiabhilash8/logic-upskill/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Abhiabhilash8/logic-upskill/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/Abhiabhilash8/logic-upskill/tree/master/3488-closest-equal-element-queries) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Abhiabhilash8/logic-upskill/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Abhiabhilash8/logic-upskill/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -65,11 +66,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/Abhiabhilash8/logic-upskill/tree/master/1710-maximum-units-on-a-truck) |
 | [2751-robot-collisions](https://github.com/Abhiabhilash8/logic-upskill/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Abhiabhilash8/logic-upskill/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Abhiabhilash8/logic-upskill/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Abhiabhilash8/logic-upskill/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Math
 |  |
 | ------- |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Abhiabhilash8/logic-upskill/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Abhiabhilash8/logic-upskill/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Abhiabhilash8/logic-upskill/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Simulation
 |  |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Abhiabhilash8/logic-upskill/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/Abhiabhilash8/logic-upskill/tree/master/3488-closest-equal-element-queries) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Abhiabhilash8/logic-upskill/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Divide and Conquer
@@ -128,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2069-walking-robot-simulation-ii](https://github.com/Abhiabhilash8/logic-upskill/tree/master/2069-walking-robot-simulation-ii) |
+## Geometry
+|  |
+| ------- |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Abhiabhilash8/logic-upskill/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 <!---LeetCode Topics End-->
