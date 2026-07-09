@@ -2,10 +2,12 @@ class Solution {
 public:
     vector<bool> pathExistenceQueries(int n, vector<int>& nums, int md, vector<vector<int>>& q) {
         vector<int>par(n);
-        for(int i = 0; i<n; i++) par[i] = i;
+        int parent = n-1;
+        par[n-1] = n-1;
+
         for(int i = n-2; i>=0;i--){
-            int mk = upper_bound(nums.begin() , nums.end() , nums[i] + md) - nums.begin() - 1;
-            par[i] = par[mk];
+            if(nums[i+1] - nums[i] > md) parent = i;
+            par[i] = parent;
         }
 
 
