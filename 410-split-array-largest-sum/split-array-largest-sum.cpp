@@ -1,28 +1,32 @@
 class Solution {
 public:
 
-    bool c(int m , vector<int>&nums , int k){
-        int cs = 0 , kcount = 1;
+    bool check(int m , vector<int>&nums , int k){
+        int cursum = 0, parts = 1;
         for(int i = 0; i < nums.size(); i++){
-            if(cs + nums[i] <= m){
-                cs += nums[i];
+            if(cursum + nums[i] <= m){
+                cursum += nums[i];
             }else{
-                kcount++;
-                cs = nums[i];
+                parts++;
+                cursum = nums[i];
             }
         }
 
-        return kcount <= k;
+
+        return parts <= k;
     }
 
     int splitArray(vector<int>& nums, int k) {
-        int l = *max_element(nums.begin() , nums.end()) - 1 , h = 1e9;
-        while(h - l > 1){
-            int m = l + (h - l) / 2;
-            if(c(m , nums , k)) h = m;
-            else l = m;
+        int n = nums.size();
+        int low = *max_element(nums.begin() , nums.end()) - 1 , high = 1000000005;
+
+        while(high - low > 1){
+            int m = low + (high - low) / 2;
+
+            if(check(m , nums , k)) high = m;
+            else low = m;
         }
 
-        return h;
+        return high;
     }
 };
